@@ -1,0 +1,33 @@
+programming 11 11,11 UP_LEFT 
+java 4 7,4 DOWN 
+words 5 9,3 UP 
+lines 5 12,12 UP 
+civic 5 11,5 RIGHT 
+test 4 7,10 DOWN_LEFT 
+stack 5 12,5 UP_LEFT 
+programming 11 11,11 UP_LEFT 
+java 4 7,4 DOWN 
+words 5 9,3 UP 
+lines 5 12,12 UP 
+civic 5 11,5 RIGHT 
+test 4 7,10 DOWN_LEFT 
+stack 5 12,5 UP_LEFT 
+programming 11 11,11 UP_LEFT 
+java 4 7,4 DOWN 
+words 5 9,3 UP 
+lines 5 12,12 UP 
+civic 5 11,5 RIGHT 
+test 4 7,10 DOWN_LEFT 
+stack 5 12,5 UP_LEFT 
+G . . . . . . . . . . . 
+. N . . . . . . . . . . 
+. . I . . . . . . . . . 
+. . . M . . . . . . . . 
+. . S . M . . . . . . . 
+. . D . . A . . . . . . 
+. . R J . . R . . T . . 
+K . O A . . . G E . . S 
+. C W V . . . S O . . E 
+. . A A . . T . . R . N 
+. . . T C I V I C . P I 
+. . . . S . . . . . . L 

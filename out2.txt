@@ -1,0 +1,26 @@
+programming 11 8,2 RIGHT 
+java 4 5,5 UP_RIGHT 
+words 5 1,9 DOWN 
+lines 5 5,2 UP 
+civic 5 7,5 RIGHT 
+test 4 1,7 LEFT 
+stack 5 8,1 UP_RIGHT 
+programming 11 8,2 RIGHT 
+java 4 5,5 UP_RIGHT 
+words 5 1,9 DOWN 
+lines 5 5,2 UP 
+civic 5 7,5 RIGHT 
+test 4 1,7 LEFT 
+stack 5 8,1 UP_RIGHT 
+. S . T S E T . W . . . 
+. E . . . . . A O . . . 
+. N . . . . V . R . . . 
+. I . . K A . . D . . . 
+. L . C J . . . S . . . 
+. . A . . . . . . . . . 
+. T . . C I V I C . . . 
+S P R O G R A M M I N G 
+. . . . . . . . . . . . 
+. . . . . . . . . . . . 
+. . . . . . . . . . . . 
+. . . . . . . . . . . . 
